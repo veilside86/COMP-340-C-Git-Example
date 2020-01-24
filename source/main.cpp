@@ -8,7 +8,9 @@
  * Modify 'main.cpp' to include your .hpp file, and invoke the 'displayName()' function.
  * Push & commit this change to your branch.
  */
+#include "Christian.h"
 
 int main(){
+	Christian::displayName();
     
 }
