@@ -1,0 +1,9 @@
+#include "Robert.hpp"
+
+static const std::string Robert::name = "Robert";
+
+void Robert::displayName(){
+
+	std::cout << "hello, " << this -> name << "\n";
+
+}
