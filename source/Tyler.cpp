@@ -4,5 +4,5 @@
 const std::string Tyler::name = "Tyler";
 
 void Tyler::displayName(){
-	std::cout << "Hello, " << this->name << "!\n";
+	std::cout << "Hello, " << Tyler::name << "!\n";
 }
