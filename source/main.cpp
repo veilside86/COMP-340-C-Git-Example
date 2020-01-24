@@ -8,10 +8,12 @@
  * Modify 'main.cpp' to include your .hpp file, and invoke the 'displayName()' function.
  * Push & commit this change to your branch.
  */
+#include "Tyler.h"
 #include "Christian.h"
 #include "Kevin.h"
 
 int main(){
 	Christian::displayName();
     Kevin::displayName();
+	Tyler::displayName();
 }
