@@ -1,0 +1,8 @@
+#include <string>
+#include <iosstream>
+class Jack{
+	private:
+		static const std:string name;
+	public:
+		static void displayName();
+};

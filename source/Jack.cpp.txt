@@ -1,0 +1,7 @@
+#include "jack.hpp"
+
+static const std:string name = "jack";
+
+void Jack:displayName(){
+	std::cout << "Hello, " << this->name <<"!\n";
+}
