@@ -2,6 +2,6 @@
 
 const std::string Junseok::name = "Junseok";
 
-void Christian::displayName(){
+void Junseok::displayName(){
     std::cout << "Hello, " << Junseok::name << "!\n";
 }
